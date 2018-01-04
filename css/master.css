@@ -72,3 +72,7 @@ material color palette: https://www.materialpalette.com/light-blue/orange
   box-sizing: border-box;
   font-size: 62.5%; /* 1 rem = 10 px */
 }
+
+body {
+  background: #ccc;
+}
